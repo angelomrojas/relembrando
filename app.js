@@ -1,7 +1,7 @@
 let listaDeNumerosSorteados = [];
 let numeroLimite = 7000;
 let numeroSecreto = gerarNumeroAleatorio();
-let tentativas = 1;
+let tentativas = 2;
 let branch = "dasdasdasdas"
 
 function exibirTextoNaTela(tag, texto) {
